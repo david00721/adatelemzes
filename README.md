@@ -1,7 +1,7 @@
 
 # University Data Analysis Project
 
-his repository contains the necessary environment dependencies and source files for the project. I've used Poetry to manage the project's dependencies.
+This repository contains the necessary environment dependencies and source files for the project. I've used Poetry to manage the project's dependencies.
 
 ## Setting Up the Environment with Poetry
 
